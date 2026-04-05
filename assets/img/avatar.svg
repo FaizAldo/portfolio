@@ -1,0 +1,11 @@
+<svg width="640" height="480" viewBox="0 0 640 480" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="640" height="480" rx="24" fill="#FCE4D6"/>
+  <circle cx="320" cy="180" r="86" fill="#BF4F24"/>
+  <rect x="190" y="278" width="260" height="128" rx="64" fill="#D06A40"/>
+  <circle cx="286" cy="170" r="9" fill="white"/>
+  <circle cx="354" cy="170" r="9" fill="white"/>
+  <path d="M287 215C300 229 340 229 353 215" stroke="white" stroke-width="8" stroke-linecap="round"/>
+  <text x="320" y="445" text-anchor="middle" fill="#1F1F1F" font-size="28" font-family="Arial, sans-serif">
+    Faiz Portfolio
+  </text>
+</svg>
